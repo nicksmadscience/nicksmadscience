@@ -8,7 +8,7 @@ I'm currently on the lookout for a junior software development job.  On the way,
 
 How to reach me:  Shoot me an email at nickpiegari@gmail.com!
 
-Pronouns:  he/they
+Pronouns:  he
 
 <!--
 **nicksmadscience/nicksmadscience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
