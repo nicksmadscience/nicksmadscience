@@ -1,6 +1,6 @@
 ### Hi, I'm Nick Piegari!
 
-I'm a video producer and motion graphics designer with 15 years professional experience, and I'm pivoting to software development.
+I'm a swiss-army-knife software developer with a focus on front-end web development and a generous side of hardware and workflow automation.  Formerly a video producer and motion graphic designer, although I still partake occasionally.
 
 Also, I'm a mad scientist.  I stream live-coding, electronic music production, hardware hackery, and more on twitch.tv/nicksmadscience.  Come hang out with me and my pup, Mouse!
 
@@ -8,7 +8,7 @@ I'm currently on the lookout for a junior software development job.  On the way,
 
 How to reach me:  Shoot me an email at nickpiegari@gmail.com!
 
-Pronouns:  he
+he/him
 
 <!--
 **nicksmadscience/nicksmadscience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
