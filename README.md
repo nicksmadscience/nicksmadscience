@@ -2,7 +2,7 @@
 
 I'm a swiss-army-knife software developer with a focus on front-end web development and a generous side of hardware and workflow automation.  Formerly a video producer and motion graphic designer, although I still partake occasionally.
 
-Also, I'm a mad scientist.  I stream live-coding, electronic music production, hardware hackery, and more on twitch.tv/nicksmadscience.  Come hang out with me and my pup, Mouse!
+Also, I'm a mad scientist.  I stream live-coding, electronic music production, hardware hackery, and more on twitch.tv/nicksmadscience.
 
 I'm currently on the lookout for a junior software development job.  On the way, I'm learning more about how to turn a 10+-year, very serious coding hobby into a profession.
 
